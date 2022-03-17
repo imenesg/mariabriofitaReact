@@ -1,0 +1,17 @@
+header{
+    background-color: var(--corverdePastel);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+    
+}
+.container{
+    width: 100%;
+    max-width: 1500px;
+    padding: .5rem 1rem ;
+}
+header img{
+    width: 75px;
+    border-radius: 10px;
+}

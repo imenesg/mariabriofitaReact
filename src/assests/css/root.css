@@ -1,0 +1,12 @@
+:root{
+    --corverdeClaro: #60992D ;
+    --corverdeEscuro: #342A21;
+    --corverdePastel: #EAF0CE ;
+}
+*{
+    box-sizing: border-box;
+}
+a{
+    color: unset;
+    text-decoration: unset;
+}

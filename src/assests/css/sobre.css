@@ -1,0 +1,30 @@
+.sobre{
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-top: 1rem;
+padding: 1rem;
+}
+
+.sobre .fotoperfil{
+    width: 90%;
+    max-width: 500px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+.sobre h2{
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--corverdeEscuro);
+}
+.redes{
+    margin-top: .5rem;
+    color: var(--corverdeClaro);
+    font-size: 2rem;
+}
+.sobre p{
+    font-size: 1.5rem;
+    line-height: 1.7rem;
+    margin-bottom: 2rem;
+}

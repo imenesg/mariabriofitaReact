@@ -1,0 +1,51 @@
+.card{
+    background-color: var(--corverdePastel);
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 1rem;
+
+    padding: 1rem;
+    
+    z-index: 1;
+    
+    height: 100%;
+}
+.card img{
+    width: 150px;
+    border-radius: 50%;
+}
+.card h3{
+    color: var(--corverdeEscuro);
+    font-weight: bold;
+    font-size: 2rem;
+    margin-top: .5rem;
+}
+.plantaInfos{
+    width: 100%;
+    font-size: 1.2rem;
+}
+.plantaInfos i{
+    margin-right: .5rem;
+    color: var(--corverdeEscuro);
+}
+.plantaInfos li{
+    display: flex;
+    align-items: center;
+    margin: .2rem 0;
+}
+.paragrafoPlanta{
+    padding: .5rem;
+    background-color: rgba(255, 255, 255, 0.76) ;
+    border-radius: 1rem;
+    margin-top: 1rem;
+
+
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
