@@ -1,7 +1,7 @@
 import React from "react";
 
 import "../assests/css/sobre.css"
-import fotoMariaClara from "../img/fotomariaclara.png"
+import fotoMariaClara from "../assests/img/fotomariaclara.png"
 function Sobre(){
  return(
     <section className="sobre">
