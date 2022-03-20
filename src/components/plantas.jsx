@@ -9,10 +9,7 @@ function Plantas(props) {
     <section className="plantas">
       <div className="gallery js-flickity" data-flickity-options='{ "freeScroll": true , "contain": true }'>
         {" "}{/*<!--, "wrapAround": true--> */}
-
-
         {props.children}
-        
       </div>
     </section>
   );

@@ -25,6 +25,11 @@
     font-weight: bold;
     font-size: 2rem;
     margin-top: .5rem;
+    height: 4.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
 }
 .plantaInfos{
     width: 100%;
@@ -33,6 +38,15 @@
 .plantaInfos i{
     margin-right: .5rem;
     color: var(--corverdeEscuro);
+}
+.plantaInfos ul{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: flex-start;
+    height: 5rem;
 }
 .plantaInfos li{
     display: flex;
