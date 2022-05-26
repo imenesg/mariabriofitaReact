@@ -1,3 +1,23 @@
+# 🔵 Mariabriofita 🔵
+
+
+### 👋Olá, esse é um projeto feito por mim e pela Maria Clara Botelho dos Reis , Usando React.js fizemos um site onde ela poderia mostrar suas plantinhas. 🌿 <br>
+
+### Nele você pode ver as fotos das plantas, nome, 💧rega, ☀️ iluminação necessária e uma descrição da planta.🌱
+<P>
+
+  
+  <p align="center">
+    
+  <img width="550" height="" src="https://user-images.githubusercontent.com/69609443/170537771-e99da7c4-1ecd-48c8-b593-253b21b43fce.png">
+</p>
+ 
+ ## O site tambem é totalmente responsivo📱.
+   
+
+  
+## De uma olhada. 😃**LINK**: [https://imenesg-studio-ghibli.netlify.app/](https://mariabriofita.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
