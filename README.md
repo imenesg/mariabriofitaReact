@@ -16,7 +16,7 @@
    
 
   
-## De uma olhada. 😃**LINK**: [https://imenesg-studio-ghibli.netlify.app/](https://mariabriofita.netlify.app/)
+## De uma olhada. 😃**LINK**: https://mariabriofita.netlify.app/
 
 # Getting Started with Create React App
 
